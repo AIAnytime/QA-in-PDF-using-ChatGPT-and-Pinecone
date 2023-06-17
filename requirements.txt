@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+openai
+pinecone-client
+unstructured
+tabulate
+pdf2image
+streamlit
+tiktoken
