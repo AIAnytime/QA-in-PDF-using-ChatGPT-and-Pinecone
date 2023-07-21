@@ -45,7 +45,7 @@ def embedding_db():
     doc_db = Pinecone.from_documents(
         docs_split, 
         embeddings, 
-        index_name='langchain-demo-indexes'
+        index_name='vercel'
     )
     return doc_db
 
