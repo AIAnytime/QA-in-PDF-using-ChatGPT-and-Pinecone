@@ -63,7 +63,7 @@ def retrieval_answer(query):
     return result
 
 def main():
-    st.title("Question and Answering App powered by LLM and Pinecone")
+    st.title("Wise Guydes")
 
     text_input = st.text_input("Ask your query...") 
     if st.button("Ask Query"):
