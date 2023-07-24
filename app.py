@@ -8,7 +8,6 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
 import streamlit as st
-from streamlit_chat import message
 from dotenv import load_dotenv
 
 # Load environment variables
