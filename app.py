@@ -79,6 +79,11 @@ def retrieval_answer(query):
     
     # Run the query
     result = qa.run(query)
+
+    # Save the query and the result in a text file
+    with open('queries_and_answers.txt', 'a') as f:
+        f.write(f"Query: {query}\nAnswer: {result}\n\n")
+    
     
     return result
 

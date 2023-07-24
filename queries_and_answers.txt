@@ -1,0 +1,3 @@
+Query: where can I fond information about Tagging in AEM?
+Answer: You can find information about Tagging in AEM on the NSW Department of Education website. Here is the link to the page: https://education.nsw.gov.au/inside-the-department/communication-and-engagement/communication-channels/education-website/tagging
+
